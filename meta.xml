@@ -1,0 +1,4 @@
+<meta>
+    <info name="spiderweb" version="0.1.0" type="script"/>
+    <script src="client.lua" type="client" cache="false"/>
+</meta>
